@@ -75,7 +75,6 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
 ![image](https://github.com/paulsamson18/mobilerobot-openloopcontrol/assets/119405794/325c9d9e-5dce-419a-a999-2eafadacf20c)
 
 
