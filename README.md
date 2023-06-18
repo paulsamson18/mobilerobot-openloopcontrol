@@ -88,7 +88,8 @@ Insert image here
 ## MobileRobot Movement Video:
 https://youtube.com/shorts/RQaaCqOnsjU?feature=share
 
-![image](https://github.com/paulsamson18/mobilerobot-openloopcontrol/assets/119405794/3ca16dd5-ecd2-490c-b916-3e871c7c0463)
+![image](https://github.com/paulsamson18/mobilerobot-openloopcontrol/assets/119405794/42c13d53-443f-4117-aeee-d6ba5f9d4bd3)
+
 
 <br/>
 <br/>
